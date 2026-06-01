@@ -146,28 +146,6 @@ Every project I build starts with one question: *what real problem does this sol
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv123shah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv123shah&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv123shah&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv123shah&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
 ## 🏆 What Makes My Work Different
 
 <div align="center">
