@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/dhruv08">
+  <a href="https://www.linkedin.com/in/dhruv-shah-10ad/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -38,7 +38,7 @@ class DhruvShah:
     building   = "SmartBiz — AI co-founder for Canadian entrepreneurs"
     languages  = ["TypeScript", "Python", "JavaScript"]
     interests  = ["Generative AI", "SaaS", "business automation", "EdTech"]
-    open_to    = ["freelance", "startups", "interesting collaborations"]
+    open_to    = ["internships", "freelance", "startups", "interesting collaborations"]
     philosophy = "Not just coding — building for impact"
 ```
 
@@ -85,6 +85,23 @@ Every project I build starts with one question: *what real problem does this sol
 ## 🌟 Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚡ <a href="https://github.com/dhruv123shah/NeuroScope-main">NeuroScope — AI Customer Intelligence &amp; Churn Prediction</a> · <a href="https://neuroscope-v2.streamlit.app/">🚀 Live Demo</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-00d4ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq%20LLaMA%203.3-F54703?style=flat-square"/>
+      </p>
+      <p><strong>The Problem:</strong> Customer-success teams have churn data but no insight — ML outputs are unreadable to the people who need to act on them.</p>
+      <p><strong>The Solution:</strong> Upload a customer CSV and get explainable churn risk (4 competing classifiers, best picked by AUC-ROC, every prediction explained with SHAP), behavioural segments (K-Means / DBSCAN / Hierarchical compared on silhouette), and LLM-written retention playbooks grounded in the real numbers. 87 tests, 92% coverage, Dockerised.</p>
+      <p>
+        <strong>Stack:</strong> Python + scikit-learn + SHAP + Streamlit + Plotly + Groq LLaMA 3.3 + Docker
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/dhruv123shah/SmartBiz">SmartBiz — AI Business Co-Founder</a></h3>
@@ -152,6 +169,7 @@ Every project I build starts with one question: *what real problem does this sol
 
 | Principle | In Practice |
 |:---|:---|
+| **Explainable ML** | NeuroScope attaches a SHAP explanation to every churn prediction — no black boxes |
 | **AI with Real Data** | SmartBiz queries actual Canadian government company registries — no mock data |
 | **Layered Security Thinking** | 3-factor attendance: face + GPS + time-bound code — because any single factor fails |
 | **Offline-First Architecture** | TaskMaster stores everything locally — no cloud dependency for core productivity |
@@ -166,11 +184,11 @@ Every project I build starts with one question: *what real problem does this sol
 
 <div align="center">
 
-  I'm open to **freelance projects**, **startup collaborations**, and **interesting problems worth solving**.
+  I'm open to **Summer 2027 software / AI internships**, **freelance projects**, **startup collaborations**, and **interesting problems worth solving**.
 
   <br/>
 
-  <a href="https://linkedin.com/in/dhruv08">
+  <a href="https://www.linkedin.com/in/dhruv-shah-10ad/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
